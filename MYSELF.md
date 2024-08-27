@@ -6,11 +6,11 @@
 
 - 🏋🏻 I’m improving my **Problem Solving Skills**
 
-- 👨‍💻 All of my **Projects** are available at [https://github.com/omkar9168]
+- 👨‍💻 All of my **Projects** are available at  [https://github.com/omkar9168]
 
-- 🔥 My Personal **Portfolio** [https://omkarghadge.netlify.app/]
+- 🔥 My Personal **Portfolio**  [https://omkarghadge.netlify.app/]
 
-- 📫 How to reach me **omkarghadge2126@gmail.com** or **hacksfor2022@gmail.com**
+- 📫 How to reach me  **omkarghadge2126@gmail.com** or **hacksfor2022@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -93,9 +93,6 @@
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    </a>
-    <a href="https://www.typescriptlang.org/docs/" target="_blank" title="TypeScript">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" title="C">
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
