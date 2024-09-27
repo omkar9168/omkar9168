@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer enthusiast from Mumbai, India</h3>
 
 
-- 🌱 I am a Full Stack (**PYTHON DEVELOPER**) Web Developer who loves to solve challenging problems.
+- 🌱 I am a Full Stack (**JAVA DEVELOPER**) who loves to solve challenging problems.
 
 - 🏋🏻 I’m improving my **Problem Solving Skills**
 
@@ -26,9 +26,6 @@
 <h3 align="left">Front End Development:</h3>
 
 <p align="left">
-    <a href="https://angular.io/" target="_blank" title="Angular JS">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angularjs" />
-    </a>
     <a href="https://rxjs.dev/" target="_blank" title="RxJS">
         <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" alt="angularjs" />
     </a>
