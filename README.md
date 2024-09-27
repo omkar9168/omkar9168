@@ -29,6 +29,8 @@
     <a href="https://rxjs.dev/" target="_blank" title="RxJS">
         <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" alt="angularjs" />
     </a>
+    <a href="https://html.com/" target="blank" title="HTML">
+        <img src="https://images.app.goo.gl/qZLtzk6nDm216z2d9" alt="HTML" />
     </a>
     <a href="https://reactjs.org/" target="_blank" title="React JS">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
