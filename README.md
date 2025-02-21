@@ -51,21 +51,11 @@
     </a>
     <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind-css" />
-    </a>
-    <a href="https://material.angular.io/" target="_blank" title="Angular Material">
-        <img src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white" alt="angular-material" />
-    </a>
-    <a href="https://mui.com/material-ui/" target="_blank" title="Material-UI">
-        <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="meterial-ui" />
-    </a>
 </p>
 
 <h3 align="left">Back End Development:</h3>
 
 <p align="left">
-    <a href="https://expressjs.com/" target="_blank" title="Express JS">
-        <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-    </a>
     <a href="https://nodejs.org/en" target="_blank" title="Node JS">
         <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
     </a>
@@ -74,9 +64,6 @@
 <h3 align="left">Databases:</h3>
 
 <p align="left">
-    <a href="https://www.mongodb.com/" target="_blank" title="Mongo DB">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    </a>
     <a href="https://www.mysql.com/" target="_blank" title="My SQL">
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
     </a>
@@ -85,13 +72,7 @@
 <h3 align="left">Languages:</h3>
 
 <p align="left">
-    <a href="https://www.python.org/" target="_blank" title="Python">
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" title="C">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
     </a>
 </p>
