@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Ghadge</h1>
-<h3 align="center">Web Developer enthusiast from Mumbai, India</h3>
+<h3 align="center">Software Engineer enthusiast from Mumbai, India</h3>
 
 
 - 🌱 I am a Full Stack (**JAVA DEVELOPER**) who loves to solve challenging problems.
@@ -57,6 +57,9 @@
 
 <p align="left">
     <a href="https://nodejs.org/en" target="_blank" title="Node JS">
+        <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    </a>
+    <a href="https://java.org/en" target="_blank" title="JAVA">
         <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
     </a>
 </p>
