@@ -60,7 +60,7 @@
         <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
     </a>
     <a href="https://www.java.com/en/" target="_blank" title="JAVA">
-        <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="JAVA" />
+        <img src="https://images.app.goo.gl/ij6gZroBFCQ6cyF66" alt="JAVA" />
     </a>
 </p>
 
