@@ -1,7 +1,7 @@
 <!-- Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Omkar+Ghadge;Software+Engineer+%7C+Full+Stack+Java+Developer;Passionate+about+Problem+Solving+%26+Web+Development)](https://git.io/typing-svg)
 
-<h3 align="center">🚀 Software Engineer | Full Stack Developer | Problem Solver</h3>
+<h3 align="center">🚀 Software Engineer | Full Stack Java Developer | Problem Solver</h3>
 
 ---
 
