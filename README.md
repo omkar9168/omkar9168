@@ -1,81 +1,83 @@
-<h1 align="center">Hi 👋, I'm Omkar Ghadge</h1>
-<h3 align="center">Software Engineer enthusiast from Mumbai, India</h3>
+<!-- Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Omkar+Ghadge;Software+Engineer+%7C+Full+Stack+Java+Developer;Passionate+about+Problem+Solving+%26+Web+Development)](https://git.io/typing-svg)
 
+<h3 align="center">🚀 Software Engineer | Full Stack Java Developer | Problem Solver</h3>
 
-- 🌱 I am a Full Stack (**JAVA DEVELOPER**) who loves to solve challenging problems.
+---
 
-- 🏋🏻 I’m improving my **Problem Solving Skills**
+### 🌟 About Me  
+- 🌱 I am a **Full Stack Java Developer** who loves solving challenging problems.  
+- 🏋🏻 Currently improving my **Problem Solving Skills**.  
+- 👨‍💻 All my projects are available at **[My GitHub](https://github.com/omkar9168)**  
+- 🔥 My Personal Portfolio: **[omkarghadge.netlify.app](https://omkarghadge.netlify.app/)**  
+- 📫 Reach me at **omkarghadge2126@gmail.com** / **hacksfor2022@gmail.com**  
 
-- 👨‍💻 All of my **Projects** are available at  [https://github.com/omkar9168]
+---
 
-- 🔥 My Personal **Portfolio**  [https://omkarghadge.netlify.app/]
-
-- 📫 How to reach me  **omkarghadge2126@gmail.com** or **hacksfor2022@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
+### 🤝 Connect with me  
 <p align="left">
-    <a href="https://www.linkedin.com/in/omkar-ghadge-11b432287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="omkar ghadge" />
-    </a>
-    <a href="https://www.instagram.com/omkar___ghadge?igsh=d3JqanNsZjcxanF4" target="blank" >
-        <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="omkar___ghadge" />
-    </a>
+  <a href="https://www.linkedin.com/in/omkar-ghadge-11b432287" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/omkar___ghadge" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Front End Development:</h3>
+---
 
-<p align="left">
-    <a href="https://rxjs.dev/" target="_blank" title="RxJS">
-        <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" alt="angularjs" />
-    </a>
-    <a href="https://html.com/" target="blank" title="HTML">
-        <img src="https://images.app.goo.gl/qZLtzk6nDm216z2d9" alt="HTML" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" title="React JS">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" title="Next JS">
-        <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
-    </a>
+### 💻 Tech Stack  
+
+#### 🖥️ Frontend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
+  <img src="https://skillicons.dev/icons?i=rxjs" height="50" />
 </p>
 
-<h3 align="left">Styling:</h3>
-
-<p align="left">
-    <a href="https://www.w3schools.com/css/" target="_blank" title="CSS">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank" title="Bootatrap">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind-css" />
+#### 🎨 Styling  
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
 </p>
 
-<h3 align="left">Back End Development:</h3>
-
-<p align="left">
-    <a href="https://nodejs.org/en" target="_blank" title="Node JS">
-        <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    </a>
-    <a href="https://img.shields.io/badge/java%20-339933?style=for-the-badge&logo=java&logoColor=white" title="JAVA">
-        <img src="https://images.app.goo.gl/ij6gZroBFCQ6cyF66" alt="JAVA" />
-    </a>
+#### ⚙️ Backend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
 </p>
 
-<h3 align="left">Databases:</h3>
-
-<p align="left">
-    <a href="https://www.mysql.com/" target="_blank" title="My SQL">
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-    </a>
+#### 🗄️ Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
 </p>
 
-<h3 align="left">Languages:</h3>
+---
 
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    </a>
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omkar9168&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar9168&layout=compact&theme=radical" height="165"/>
 </p>
+
+---
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omkar9168&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 🔥 Contribution Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=omkar9168&theme=radical" />
+</p>
+
+---
+
+### 🎯 Fun Fact  
+> *"First, solve the problem. Then, write the code."* 💡
