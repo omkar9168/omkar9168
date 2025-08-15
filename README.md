@@ -6,7 +6,7 @@
 ---
 
 ### 🌟 About Me  
-- 🌱 I am a **Full Stack Java Developer** who loves solving challenging problems.  
+- 🌱 I am a **Full Stack Developer** who loves solving challenging problems.  
 - 🏋🏻 Currently improving my **Problem Solving Skills**.  
 - 👨‍💻 All my projects are available at **[My GitHub](https://github.com/omkar9168)**  
 - 🔥 My Personal Portfolio: **[omkarghadge.netlify.app](https://omkarghadge.netlify.app/)**  
