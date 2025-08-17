@@ -16,10 +16,10 @@
 
 ### 🤝 Connect with me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/omkar-ghadge-11b432287" target="_blank">
+  <a href=https://www.linkedin.com/in/omkar-ghadge-11b432287" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/omkar___ghadge" target="_blank">
+  <a href="https://www.instagram.com/omkar.ghadge_21?igsh=d3JqanNsZjcxanF4">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
