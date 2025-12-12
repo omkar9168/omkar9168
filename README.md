@@ -34,7 +34,6 @@
   <img src="https://skillicons.dev/icons?i=css" height="50" />
   <img src="https://skillicons.dev/icons?i=javascript" height="50" />
   <img src="https://skillicons.dev/icons?i=react" height="50" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
   <img src="https://skillicons.dev/icons?i=rxjs" height="50" />
 </p>
 
